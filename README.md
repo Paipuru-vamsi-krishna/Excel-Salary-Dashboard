@@ -8,7 +8,7 @@ This data jobs salary dashboard was created to help job seekers investigate sala
 
 
 ### Dashboard File
-My final dashboard is in [1_Salary_Dashboard.xlsx](Salary_Dashboard.xlsx).
+My final dashboard is in [1_Salary_Dashboard.xlsx](Images/Salary_Dashboard_Chart1.png).
 
 ### Excel Skills Used
 
