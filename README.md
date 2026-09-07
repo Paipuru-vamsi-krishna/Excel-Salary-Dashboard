@@ -77,7 +77,7 @@ IF(
 
 📉 Dashboard Implementation
 
-![](Images\Salary_Dashboard_Job_Title.png)
+![](Images/Salary_Dashboard_Job_Title.png)
 
 #### ⏰ Count of Job Schedule Type
 
