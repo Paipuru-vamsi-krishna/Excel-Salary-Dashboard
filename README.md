@@ -105,7 +105,7 @@ IF(
     - 🚫 Incorrect or inconsistent entries are prevented
     - 👥 Overall usability of the dashboard is enhanced
 
-![](Images\Salary_Dashboard_Data_Validation.gif)
+![](Images/Salary_Dashboard_Data_Validation.gif)
 
 ## Conclusion
 
