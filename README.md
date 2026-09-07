@@ -94,7 +94,7 @@ IF(
 
 📉 Dashboard Implementation:
 
-![](Images\Salary_Dashboard_Type.png)
+![](Images/Salary_Dashboard_Type.png)
 
 ### ❎ Data Validation
 
